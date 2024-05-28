@@ -4,12 +4,14 @@ Este é um projeto simples de uma agenda de contatos em Python, que permite adic
 
 ## Estrutura do Projeto
 
+```bash
 meu_projeto/
 │
 ├── contato.py
 ├── agenda.py
 ├── main.py
 └── agenda.json (será criado automaticamente ao salvar contatos)
+```
 
 
 ### Arquivo `contato.py`
@@ -33,7 +35,7 @@ Este arquivo contém a função principal que interage com o usuário através d
 
 ```sh
 python main.py
-
+```
 # Funcionalidade
 
 1. **Adicionar Contato**  
